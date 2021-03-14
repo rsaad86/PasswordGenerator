@@ -5,4 +5,4 @@ Welcome to my Password Generator. When you open the page and click the "Generate
 ![PasswordGenerator](https://raw.githubusercontent.com/rsaad86/PasswordGenerator/main/myPasswordGenerator.png)
 
 Here is my Psuedocode
-![PasswordGenerator](https://app.diagrams.net/#G1G3Nk5pp8emfLMhvBV0FyjzOjFRmgYjur)
+![PasswordGenerator](https://raw.githubusercontent.com/rsaad86/PasswordGenerator/main/PasswordGeneratorPseudo.png)
